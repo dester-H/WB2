@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color: #D3BFF8;
+}
+div{
+	font-size: 35px;
+    font-weight:bolder;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+ 
+a{
+			text-decoration:none;
+			color:#94F8F9;
+		}
